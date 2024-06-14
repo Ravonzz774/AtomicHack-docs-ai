@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2d40b56-5520-4527-b8b4-955671fa3b9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/atom-llm-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/D-1C1-1.05.01 Планирование работы ТС.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/D-1C1-1.18.03 Реализация продукции товаров работ услуг и прочая реализация_v26.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция D-1C1-1.01.01 Универсальное согласование документов _v6.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция D-1C1-1.01.07 Формирование заявки на платеж.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция D-1C1-1.01.09 Формирование платежных поручений (НФ) (5) (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция D-1C1-1.03.04 Выпуск продукции услуг работ собственным производством (НФ) (5) (2).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция D-1C1-1.04.12 Учет договоров длительного технологического цикла_v26.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция D-1C1-1.10.02 Учет денежных документов в кассе_v2 (НФ).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция D-1C1-1.10.04 Учет банковских операций (НФ)_v2 (28) (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция D-1C1-1.10.10 Учет результатов инвентаризации объектов учета ВНА, РБП, ДБП.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция D-1C1-1.10.14  Учет НДС_v7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция D-1C1-1.10.19 Формирование налоговой декларации по НП-v3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция D-1C1-1.10.25 Учет расчетов по заработной плате3 (НФ).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция D-1C1-1.10.39 Сверка взаиморасчетов с контрагентами.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция D-1C1-1.10.41 Учет операций при закрытии периода (НФ).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция D-1C1-1.10.47 Учет резервов по сомнительным долгам.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция D-1C1-1.13.01 Ведение договоров на закупку ТМЦ работ и услуг (НФ) (3).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция D-1C1-1.19.01 Поступление ТМЦ на склад предприятия от поставщиков_v18.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция D-1C1-1.20.02 Анализ взаиморасчетов по закупкам (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция D-1C1-1.22.01 Приложение 5 Обработка по корректировке графиков.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция D-1C1-1.27.10 Учет договоров обеспечения и платежей по обеспечению.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция Интеграция с ЕОСДО v5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция Настройки регламентированного учета.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция Списание НДС на расходы.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция Учет внутрихозяйственных расчетов.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция администратора Настройка ограничения прав доступа пользователей по ЦФО и статьям бюджетов для АО Гринатом.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция администратора Описание настроек подсистемы бюджетирования для АО Гринатом.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Инструкция пользователей «D-1C1-1.22.01 Формирование графиков платежей, поступления ДС, поставок, отгрузок».pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Интеграция РЦК_v2 (НФ).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Отражение операций по давальческой схеме через документ «Заказ давальца»_v2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/process_docs.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2hsFefsINFiFRhX3h3pQ78NvkPF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.process_docs.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vvvvt\dev\atom-llm-1\docs" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17890.14" />
+        <option value="bundled-python-sdk-5b207ade9991-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2d40b56-5520-4527-b8b4-955671fa3b9e" name="Changes" comment="" />
+      <created>1718374976114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718374976114</updated>
+      <workItem from="1718374977247" duration="1665000" />
+      <workItem from="1718379385782" duration="1757000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/atom_llm_1$process_docs.coverage" NAME="process_docs Coverage Results" MODIFIED="1718380193663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
